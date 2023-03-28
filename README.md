@@ -24,3 +24,5 @@ ARPU считается относительно всех пользовател
 
 Активным по математике считается пользователь, за все время решивший 2 или больше задач правильно по математике.
 
+Решение: 
+![Image result table](https://github.com/AnastasiaGusarova/SQL/blob/main/result%20table.png)
